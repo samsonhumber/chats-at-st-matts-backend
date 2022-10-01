@@ -1,5 +1,5 @@
-# chats-at-st-matts
-
+# chats-at-st-matts backend
+## About Chats at St Matt's
 A blog/forum for young people in Plymouth to ask questions and share their meditations on God, the Bible, and life.
 ## Technology and deployment
 As planned on 01/10/2022
